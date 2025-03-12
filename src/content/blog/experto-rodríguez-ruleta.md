@@ -6,7 +6,7 @@ heroImage: "/lodeinixio/pqsy-ruleta.png"
 author: "Experto Rodríguez"
 ---
 
-Corría aquel caluroso verano de 2006 cuando Antena 3 decidió resucitar La Ruleta de la Fortuna. Sugún directivos de la cadena, intentaron resucitar a Franco, pero resucitar el concurso era más fácil. Desde entonces la Ruleta se ha consolidado en la parrilla televisiva alcanzando unas cuotas de audiencia estratosféricas. 19 años, 65.325 paneles y 47 azafatas después, toca abrir el melón de la estafa de la Ruleta de la Suerte.
+Corría aquel caluroso verano de 2006 cuando Antena 3 decidió resucitar La Ruleta de la Fortuna. Según directivos de la cadena, intentaron resucitar a Franco, pero resucitar el concurso era más fácil. Desde entonces la Ruleta se ha consolidado en la parrilla televisiva alcanzando unas cuotas de audiencia estratosféricas. 19 años, 65.325 paneles y 47 azafatas después, toca abrir el melón de la estafa de la Ruleta de la Suerte.
 
 > _"¿Cómo puede ser que el precio de las vocales se haya mantenido a 50€ durante estas casi dos décadas?"_
 
