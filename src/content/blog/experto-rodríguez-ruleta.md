@@ -2,7 +2,7 @@
 title: 'Experto Rodríguez: "A los poderes del Estado no les interesa que se sepa quién está detrás de La Ruleta de la Suerte"'
 description: "#PeroQuéSabréYo"
 pubDate: "Mar 10 2025"
-heroImage: "/pqsy-ruleta.png"
+heroImage: "/lodeinixio/pqsy-ruleta.png"
 author: "Experto Rodríguez"
 ---
 
