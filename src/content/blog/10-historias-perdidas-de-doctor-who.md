@@ -10,7 +10,7 @@ A lo largo de sus 61 años de historia, la mítica serie 'Doctor Who' ha perdido
 
 ### An Earthly Child (1963)
 
-Era una versión alternativa de 'An Unearthly Child'. En ella, Ian y Barbara descubren que Susan es una muchacha normal de Castleton que cuando sale del colegio tiene que cuidar de su abuelo senil. Los dos profesores, tras seguir en coche a su alumna (algo totalmente notmal y legal en aquella época) y ver que no había nada raro en ella, deciden irse a cenar a un restaurante. _"Vaya muermo de hombre"_, piensa ella en mitad de la cena. _"Hostía, no he corregido los exámenes"_, piensa él mientras ella pide la cuenta.
+Era una versión alternativa de 'An Unearthly Child'. En ella, Ian y Barbara descubren que Susan es una muchacha normal de Castleton que cuando sale del colegio tiene que cuidar de su abuelo senil. Los dos profesores, tras seguir en coche a su alumna (algo totalmente normal y legal en aquella época) y ver que no había nada raro en ella, deciden irse a cenar a un restaurante. _"Vaya muermo de hombre"_, piensa ella en mitad de la cena. _"Hostía, no he corregido los exámenes"_, piensa él mientras ella pide la cuenta.
 
 Esta versión del piloto por suerte no vio la luz.
 
