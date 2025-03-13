@@ -4,7 +4,7 @@ description: ""
 pubDate: "Mar 13 2025"
 heroImage: "/lodeinixio/melody.png"
 image: "/lodeinixio/melody.png"
-author: "Experto Rodríguez"
+author: "Inixio"
 ---
 
 Aunque la victoria de Melody no contentó a todo el público, la de Dos Hermanas ha conseguido que todo el mundo se sepa la canción. Sólo le hizo falta una alfombra roja en los Goya y unos ligeros conocimientos de tortura medieval para conseguir que la gente entendiese el nulo trasfondo de la canción.
