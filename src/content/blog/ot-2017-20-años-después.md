@@ -3,6 +3,7 @@ title: "Así viven los concursantes de OT 2017 20 años después"
 description: ""
 pubDate: "Mar 11 2025"
 heroImage: "/lodeinixio/ot2017.png"
+image: "/lodeinixio/ot2017.png"
 author: "Inixio"
 ---
 

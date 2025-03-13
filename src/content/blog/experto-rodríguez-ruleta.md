@@ -3,6 +3,7 @@ title: 'Experto Rodríguez: "A los poderes del Estado no les interesa que se sep
 description: "#PeroQuéSabréYo"
 pubDate: "Mar 10 2025"
 heroImage: "/lodeinixio/pqsy-ruleta.png"
+image: "/lodeinixio/pqsy-ruleta.png"
 author: "Experto Rodríguez"
 ---
 

@@ -3,6 +3,7 @@ title: '5 historias perdidas de "Doctor Who" que sólo los verdaderos fans conoc
 description: "Series"
 pubDate: "Mar 12 2025"
 heroImage: "/lodeinixio/doctor-who.png"
+image: "/lodeinixio/doctor-who.png"
 author: "Inixio"
 ---
 
