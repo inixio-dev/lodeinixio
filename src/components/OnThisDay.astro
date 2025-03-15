@@ -1,0 +1,27 @@
+---
+function getRandomYear() {
+  const currentYear = new Date().getFullYear();
+  const lastYear = currentYear - 1;
+  const minYear = 1900;
+
+  return Math.floor(Math.random() * (lastYear - minYear + 1)) + minYear;
+}
+const today = new Date();
+const year = getRandomYear();
+const thatDay = new Date(year, today.getMonth(), today.getDate());
+const weekDays = [
+  "domingo",
+  "lunes",
+  "martes",
+  "miércoles",
+  "jueves",
+  "viernes",
+  "sábado",
+  "domingo",
+];
+---
+
+<div>
+  <b>⏳ Tal día como hoy en {year}...</b><br />
+  Era {weekDays[thatDay.getDay()]}.
+</div>

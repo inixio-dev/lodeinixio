@@ -1,0 +1,25 @@
+---
+interface Show {
+  name: string;
+  message: string;
+  link: string;
+  date: Date;
+}
+
+const spam: Show = {
+  name: "🫰",
+  message: "¡Eh! Pilla entradas para el próximo 🫰",
+  link: "https://entradium.com/es/events/3-el-open-de-propon-noche-de-monologos",
+  date: new Date(2025, 2, 22, 21, 30),
+};
+---
+
+{
+  spam && spam.date >= new Date() && (
+    <div class="spam-container">
+      <a href={spam.link} target="_blank" class="spam">
+        {spam.message}
+      </a>
+    </div>
+  )
+}
