@@ -20,13 +20,13 @@ El pasado 8 de marzo publicamos el artículo _**8 chistes que no pasan el test d
 >
 > -No, pero me encantaría verlas
 
-Este chiste no cumple ninguno de los puntos del **Test de Bechdel**. Para que una pieza de entretenimiento pase el test debe cumplir las siguientes características:
+Para que una pieza de entretenimiento pase el test debe cumplir las siguientes características:
 
 1. Aparecen al menos dos personajes femeninos
 2. Se mencionan sus nombres
 3. Tienen una conversación, que no tiene a un hombre como tema central
 
-Como ya habréis podido suponer, el chiste no cumple con ninguno de los 3. Es más, **ni siquiera se menciona el nombre de la única mujer** presente en el chiste. El test de Bechdel no deja de ser un indicador más, no implica que una pieza de entretenimiento sea mejor o peor. De hecho grandes obras del cine como **El Padrino I, Regreso al Futuro o Lluvia de Albóndigas** no pasan el test.
+Como ya habréis podido deducir, el chiste no cumple con ninguno de los 3. Es más, **ni siquiera se menciona el nombre de la única mujer** presente en el chiste. El test de Bechdel no deja de ser un indicador más, no implica que una pieza de entretenimiento sea mejor o peor. De hecho grandes obras del cine como **El Padrino I, Regreso al Futuro o Lluvia de Albóndigas** no pasan el test.
 
 No esperábamos que el artículo tuviera tanta repercusión, pero a los pocos minutos de publicarlo _Mistetas_ ya era _trending topic_ en Twitter (antiguamente X).
 
