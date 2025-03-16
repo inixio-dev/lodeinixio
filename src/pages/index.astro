@@ -23,8 +23,6 @@ const latest = (await getCollection("blog")).sort((a, b) =>
   <body>
     <Header />
     <main>
-      <h3>En Portada</h3>
-
       <section>
         <aside><Weather /></aside>
       </section>
@@ -43,7 +41,7 @@ const latest = (await getCollection("blog")).sort((a, b) =>
                 height={360}
                 src={latest.data.heroImage}
                 alt={latest.data.title}
-                class="img"
+                class="img-big"
               />
               <small>{latest.data.description}</small>
               <h5 class="title">{latest.data.title}</h5>
