@@ -23,13 +23,13 @@ Tras meses de rumores, Nintendo podría estar a punto de anunciar Francisco 2. S
 
 ### Benedicto XVI
 
-¿Creíais que había muerto? Pues sí, efectivamente falleció la nochevieja de 2023, pero al ver desde el infierno la ola reaccionaria que asola el mundo, decidió resucitar. _"No me pierdo esa fiesta"_ dijo poniéndose el albornoz mientras salía del caldero de satán ante la incredulidad de Hitler y el inventor de los códigos QR.
+¿Creíais que había muerto? Pues sí, efectivamente falleció la nochevieja de 2023, pero al ver desde el infierno la ola reaccionaria que asola el mundo, decidió resucitar. _"No me pierdo esa fiesta"_, dijo poniéndose el albornoz mientras salía del caldero de satán ante la incredulidad de Hitler y el inventor de los códigos QR.
 
 ![Benedicto XVI](https://images.theconversation.com/files/502775/original/file-20221230-18-yswnf4.jpg?ixlib=rb-4.1.0&rect=23%2C11%2C3970%2C2646&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip)
 
 ### David Tennant
 
-Tras rechazar los papeles del nuevo James Bond y el decimosexto 'Doctor Who', el actor escocés ha decidido postularse para ser el nuevo Papa. Convencerle no fue fácil. Le han hecho creer que todo forma parte de una película.
+Tras rechazar los papeles del nuevo James Bond y el decimosexto 'Doctor Who', el actor escocés ha decidido postularse para ser el nuevo Papa. Convencerlo no fue fácil. Le han hecho creer que todo forma parte de una película.
 
 > _"Es un honor poder protagonizar la secuela de Cónclave. Me lo tomo como un auténtico reto. Siempre es un gusto volver a trabajar con Santiago Segura"_
 >
