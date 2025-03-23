@@ -1,6 +1,6 @@
 ---
 title: Estos eran los 5 candidatos a Papa por si Francisco cerraba sesión
-description: "Actualidad"
+description: "EXCLUSIVA"
 pubDate: "Mar 23 2025"
 heroImage: "/lodeinixio/papa.png"
 image: "/lodeinixio/papa.png"
